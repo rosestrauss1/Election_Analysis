@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Project
 
@@ -29,3 +29,4 @@ Diane DeGette won the election with 73.8% of the vote and 272,892 voters.
 
 ## Election-Audit Summary
 
+The script used in this election analysis could be used for any election with some modifications. The first step the election commission would need to take is to create a csv file that could be utilized by the script. Once there is a csv file inputed, all the election commission would need to do is change the file path to draw from the csv file for the relevant election. 
