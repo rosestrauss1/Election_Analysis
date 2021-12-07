@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project is to use python to determine the outcomes of a congressional election. Using for loops and if then statements, I was able to calculate from a csv file that listed the name of candidates, county, and votes the win number for the election, number of votes per county, and where turnout was the highest among voters.
+The purpose of this project is to use python to determine the outcomes of a congressional election. Using for loops and if then statements and data from a csv file indicating name of candidates, county, and votes, I calculated the win number for the election, number of votes per county, and locations where turnout was the highest among voters.
 
 ## Election-Audit Results
 
